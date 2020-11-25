@@ -57,8 +57,8 @@
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики" Денисюк Валерії</div>
   <div id="content">
    
-<h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
-<p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
+<h2>звіт до лабораторної роботи №1. Тема - Табличний процесор</h2> 
+<p>2. Індивідуальне завдання <img src="Лаб3.Денисюк" alt="завдання"> </p> 
 <p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p>
 <p>4. <a href="https://drive.google.com/file/d/1Grs9nsm4TmvZojK2TLyJcTiOzpk2p9-0/view?usp=sharing">Посилання на Гугл диск</a></p>
 <p>5. <a "https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/Ee3EkEanElBPtSy0qeKhlAgBUGVkz-_02CgRZkbxVEXgIA?e=DhFsIK"> Посилання на OneDrive</a></p>
