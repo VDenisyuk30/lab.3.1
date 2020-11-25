@@ -60,10 +60,10 @@
 <h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
 <p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
 <p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p>
-<p>4. <a href="https://drive.google.com/file/d/1kS-hBbOlJe9osKxCradBQVuz6_WYeXna/view?usp=sharing">Посилання на Гугл диск</a></p>
-<p>5. <a "https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/EQ41Q5ARLuJFk8T6USy_kYcBfuGRBnnX_LfUcqrZoaE_xQ?e=y4repw"> Посилання на OneDrive</a></p>
+<p>4. <a href="https://drive.google.com/file/d/1Grs9nsm4TmvZojK2TLyJcTiOzpk2p9-0/view?usp=sharing">Посилання на Гугл диск</a></p>
+<p>5. <a "https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/Ee3EkEanElBPtSy0qeKhlAgBUGVkz-_02CgRZkbxVEXgIA?e=DhFsIK"> Посилання на OneDrive</a></p>
 <p>6.1 <a href="Денисюк.лаб2">Формат Microsoft</a></p>
-<p>6.1 <a "https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit?usp=sharing"> Посилання на Гугл таблиці</a></p>
+<p>6.1 <a "https://drive.google.com/file/d/1Grs9nsm4TmvZojK2TLyJcTiOzpk2p9-0/view?usp=sharing"> Посилання на Гугл таблиці</a></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
@@ -72,7 +72,7 @@
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
     <p><a href="lab1.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
-    <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Формування за зразком</a></p>
+    <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Табличний процесор</a></p>
     <p><a href="lab3.html">звіт до лабораторної роботи №3. Тема - Google малюнок</a></p>
     <p><a href="lab4.html">звіт до лабораторної роботи №4. Тема - Google форма-опитування</a></p>
    <p><a href="lab5.html">звіт до лабораторної роботи №5. Тема - Google форма-тестування</a></p>
